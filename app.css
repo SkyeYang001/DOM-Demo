@@ -9,3 +9,14 @@ body {
 .pagewrapper {
     display: flex;
 }
+
+.left {
+    width: 75px;
+    height:1em;
+}
+
+.right {
+    width: 75px;
+    background-color: dimgray;
+    
+}
